@@ -1,4 +1,4 @@
-#Bubblesort algorithm
+#Bubble sort algorithm
 
 disorderedList = [4, 3, 5, 6, 7, 0, 2, 7, 9]
 
